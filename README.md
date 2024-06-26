@@ -1,4 +1,4 @@
-# 🏦 Loan Approval Prediction Machine Learning Project 🏦
+# Loan Approval Prediction Machine Learning Project 🏦
 
 ## Overview
 
