@@ -12,7 +12,7 @@ The dataset includes essential features such as:
 
 - **Loan_ID**: Unique identifier for the loan
 - **Gender**: Gender of the applicant
-- **Married**: Marital status of the applicant
+- **Married**: Marital status of the applicant 
 - **Dependents**: Number of dependents
 - **Education**: Education level of the applicant
 - **Self_Employed**: Employment status (self-employed or not)
