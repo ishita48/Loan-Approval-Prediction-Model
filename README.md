@@ -10,7 +10,7 @@ For a detailed exploration of the project, view the Colab notebook [here](https:
 
 The dataset includes essential features such as:
 
-- **Loan_ID**: Unique identifier for the loan
+- **Loan_ID**: Unique identifier for the loan 
 - **Gender**: Gender of the applicant
 - **Married**: Marital status of the applicant 
 - **Dependents**: Number of dependents
