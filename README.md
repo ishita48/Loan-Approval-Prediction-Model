@@ -4,7 +4,7 @@
 
 Welcome to the Loan Approval Prediction Machine Learning Project! This project aims to develop and evaluate machine learning models for predicting loan approval status using a dataset from Analytics Vidhya. The goal is to create accurate models that determine whether a loan will be approved based on various applicant features.
 
-For a detailed exploration of the project, view the Colab notebook [here](https://colab.research.google.com/github/ishita48/Loan-Approval-Prediction-Model/blob/main/loan_approval_prediction_model.ipynb).
+For a detailed exploration of the project, view the Colab notebook [here](https://colab.research.google.com/github/ishita48/Loan-Approval-Prediction-Model/blob/main/loan_approval_prediction_model.ipynb). 
 
 ## Dataset 📊
 
